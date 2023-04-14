@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1681351338 source:d:\documentos\estudo-c\tipos abstratos\exemplo\contabancaria.c
+	<stdio.h>
+	"contabancaria.h"
+
+1681351325 d:\documentos\estudo-c\tipos abstratos\exemplo\contabancaria.h
+
+1681352604 source:d:\documentos\estudo-c\tipos abstratos\exemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"contaBancaria.h"
+
